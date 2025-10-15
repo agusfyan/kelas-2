@@ -1,1 +1,1 @@
-# inventorymachine
+# kelas 2
